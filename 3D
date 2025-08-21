@@ -1,6 +1,1 @@
-git clone https://github.com/yjkim24/3Dplot.git
-cd 3Dplot
-echo "<h1>Hello</h1>" > index.html
-git add index.html
-git commit -m "Add index.html"
-git push origin main
+
